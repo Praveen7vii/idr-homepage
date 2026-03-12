@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160">
+  <!-- Cube icon (scaled) -->
+  <g transform="translate(10,25) scale(0.85)">
+    <rect x="48" y="72" width="78" height="78" rx="3" fill="#FF6200" stroke="#0F172A" stroke-width="9"/>
+    <polygon points="48,72 75,45 153,45 126,72" fill="#FF8533" stroke="#0F172A" stroke-width="9"/>
+    <polygon points="126,72 153,45 153,123 126,150" fill="#FF7430" stroke="#0F172A" stroke-width="9"/>
+  </g>
+  <!-- Text -->
+  <text x="165" y="78" font-family="Arial Black, system-ui" font-size="72" font-weight="700" fill="#0F172A" letter-spacing="-2px">IDR</text>
+  <text x="165" y="108" font-family="system-ui, Arial" font-size="13.5" font-weight="600" fill="#FF6200" letter-spacing="3.5px">INSTITUTE OF DIGITAL RISK</text>
+</svg>
